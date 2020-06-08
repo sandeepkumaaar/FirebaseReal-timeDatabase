@@ -119,7 +119,6 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             return false;
         }
         else {
-            //addData();
             Toast.makeText(MainActivity.this, "Thanks for submit", Toast.LENGTH_SHORT).show();
         }
 
